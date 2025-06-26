@@ -6,4 +6,4 @@
 
 🌐 For more information, visit [cbdata.cz](https://cbdata.cz) or contact us at **cbdata@cbdata.cz**.
 
-🚀 Interested in joining our team? Explore current job openings at [codeisgame.com](codeisgame.com).
+🚀 Interested in joining our team? Explore current job openings at [codeisgame.com](https://codeisgame.com).

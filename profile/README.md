@@ -5,3 +5,5 @@
 🎯 We actively participate in defining and maintaining technical standards in the field, with a strong emphasis on system reliability, data security, and responsible gaming principles.
 
 🌐 For more information, visit [cbdata.cz](https://cbdata.cz) or contact us at **cbdata@cbdata.cz**.
+
+🚀 Interested in joining our team? Explore current job openings at [codeisgame.com](codeisgame.com).
